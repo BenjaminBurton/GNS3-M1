@@ -1,4 +1,4 @@
-# GNS3-Server on M1 Mac
+# GNS3-Server on M1 Mac using a Docker Container
 
 ## Start by creating a `Dockerfile` (NO FILE EXTENSION) in directory of your choice 
 
