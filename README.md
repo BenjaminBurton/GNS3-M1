@@ -1,6 +1,6 @@
 # GNS3-Server on M1 Mac
 
-## Start by creating a `Dockerfile` (NO FILE EXTENSION) in a directory of your choice 
+## Start by creating a `Dockerfile` (NO FILE EXTENSION) in directory of your choice 
 
 ## Open the `Dockerfile` in editor (I use Nano) 
 
