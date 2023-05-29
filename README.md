@@ -2,7 +2,7 @@
 
 Start by creating a `Dockerfile` (NO FILE EXTENSION) in a directory of your choice
 
-### Open the `Dockerfile` in editor (I use Nano) 
+Open the `Dockerfile` in editor (I use Nano) 
 
 
 ### Define the Docker Image Base 
