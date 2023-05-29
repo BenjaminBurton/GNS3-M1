@@ -3,7 +3,7 @@
 Start by creating a `Dockerfile` (NO FILE EXTENSION) in a directory of your choice
 
 Open the `Dockerfile` in editor (I use Nano) 
-(<br>)
+<br>
 Define the Docker Image Base 
 ```js
 FROM ubuntu:latest
