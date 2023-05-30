@@ -44,10 +44,10 @@ docker build -t gns3-server-image .
 ```
 
 ### Run the Docker Container
+> This command will start the Docker container
 ```js
 docker run -d --name gns3-server-container -p 3080:3080 gns3-server-image
 ```
-This command will start the Docker container
 
  Inside the Docker container's shell, install Dynamips by run
  ```js
